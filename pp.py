@@ -1,4 +1,3 @@
-# Hackthon-14--15-02-25
 from fastapi import FastAPI
 from pydantic import BaseModel
 from geopy.distance import geodesic
